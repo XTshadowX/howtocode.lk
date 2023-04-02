@@ -16,4 +16,6 @@ every definition has seperate link to there own page and every page will have br
 and seperated from headings and under the heading there will be source code and the output of the 
 source code .
 
+** OPEN INDEX.HTML FILE TO GET THE PREVIEW OF THE SITE **
+
 
